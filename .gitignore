@@ -1,0 +1,9 @@
+kubeconfig_*
+.terraform
+.terragrunt-cache
+*.tfstate
+*.tfstate.backup
+*.out
+consul-*
+consul/
+.idea/
